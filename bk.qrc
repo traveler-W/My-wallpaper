@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Scene1.gif</file>
+        <file>image/ii.ico</file>
+        <file>image/Li.gif</file>
+        <file>image/R-C.png</file>
+        <file>image/Mr.ico</file>
+        <file>image/sir1.png</file>
+        <file>image/sir2.png</file>
+        <file>image/bb.png</file>
+        <file>image/io.png</file>
+        <file>image/shan.jpg</file>
+        <file>image/magic.png</file>
+    </qresource>
+</RCC>
